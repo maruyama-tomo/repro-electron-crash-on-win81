@@ -1,0 +1,14 @@
+{
+  "name": "repro-electron-crash-on-win81",
+  "version": "1.0.0",
+  "description": "Reproduction code for Electron crashes on Windows 8.1",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "DMM.com LLC",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^16.0.3"
+  }
+}
